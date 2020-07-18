@@ -1,0 +1,12 @@
+.card {
+    background-color: #D4D1D1;
+    margin: 10px;
+}
+
+.navbar{
+    background-color: #D4D1D1;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
