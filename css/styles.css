@@ -1,10 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+#header-nav {
+    background-color: #D4D1D1;
+    border-radius: 0;
+    border: 2px black solid;
+}
+
 .card {
     background-color: #D4D1D1;
     margin: 10px;
 }
-
-.navbar {
-    background-color: #D4D1D1;
+.card-title {
+    padding: 1px;
+}
+.card-text {
+    padding: 10px;
 }
 
 .navbar-default .navbar-brand {
