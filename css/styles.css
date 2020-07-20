@@ -11,7 +11,6 @@ body {
 
 .card {
     background-color: #D4D1D1;
-    margin: 10px;
 }
 .card-title {
     padding: 1px;
@@ -22,4 +21,27 @@ body {
 
 .navbar-default .navbar-brand {
     color: black;
+}
+ /*li {
+    border: 1px black solid;
+} */
+  
+  .navbar-default .navbar-collapse {
+    border: none;
+}
+
+#nav-list a {
+    color: black;
+}
+
+#nav-list a:hover {
+    color: gray;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid black;
+}
+
+#collapsable-nav a {
+    font-size: 1.1em;
 }
